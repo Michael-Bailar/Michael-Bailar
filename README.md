@@ -6,5 +6,7 @@ My name is Michael Bailar and I'm a full stack web developer currently based her
 - 🌱 Recently Finished Lambda School's core Web Development Track
 - 🤔 I work with React, Python, Node, Javascript, SQL, HTML, and CSS.
 - 📫 How to reach me: Check out my LinkedIn at www.linkedin.com/in/michael-bailar
-- ⚡ Fun fact: Even when sitting still, we're moving at 220 kilometers per second or almost 500,000 miles per hour.
+- ⚡ Fun fact: Nothing starts with n and ends with g.
+
+
 
